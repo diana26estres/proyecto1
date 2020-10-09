@@ -1,2 +1,2 @@
-# proyecto1
+# Videoclub
 Plan de pruebas
